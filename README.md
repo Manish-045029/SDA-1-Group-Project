@@ -23,7 +23,7 @@ The primary objective of this dashboard is to provide actionable insights into r
 
 5. Support Strategic Planning: Provide a consolidated view of performance across multiple dimensions (e.g., average stay duration, reservation sources) to inform long-term strategies for customer acquisition and retention.
 
-   ![Uploading Hotel Booking Dashboard.png…]()
+ ![Uploading Hotel Booking Dashboard.png…]()
 
 
 ## Insights of the Dashboard
